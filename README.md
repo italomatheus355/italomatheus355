@@ -1,25 +1,26 @@
-<!-- Perfil GitHub de Italo Matheus -->
+<!-- ITALO MATHEUS | GitHub Profile -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:2563EB&height=190&section=header&text=Italo%20Matheus&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Desenvolvimento%20de%20Software%20%7C%20Infraestrutura%20%7C%20Automação&descSize=14&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:070B16,45:111827,100:312E81&height=220&section=header&text=ITALO%20MATHEUS&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20LINUX%20%26%20AUTOMATION&descSize=15&descColor=A5B4FC&descAlignY=61&animation=fadeIn" />
 
-<p>
-  <img src="https://img.shields.io/badge/GitHub-italomatheus355-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Belém-PA-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Belém, Pará"/>
-  <img src="https://img.shields.io/badge/Focus-Software%20%26%20Infrastructure-7C3AED?style=for-the-badge" alt="Foco"/>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es.;Desenvolvimento+Full+Stack.;Linux%2C+infraestrutura+e+automa%C3%A7%C3%A3o.;Sempre+aprendendo%2C+sempre+construindo." alt="Animação de apresentação" />
+</a>
 
-### Olá! Seja bem-vindo ao meu GitHub 👋
+<br/>
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, interessado em desenvolver soluções que conectem software, automação e infraestrutura.
+<a href="https://github.com/italomatheus355"><img src="https://img.shields.io/badge/GitHub-italomatheus355-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/Location-Belém%2C%20Brasil-1D4ED8?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização"/>
+<img src="https://komarev.com/ghpvc/?username=italomatheus355&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" alt="Visualizações do perfil"/>
 
-<p>
-  <a href="#sobre-mim">Sobre mim</a> ·
-  <a href="#tecnologias">Tecnologias</a> ·
-  <a href="#projetos-em-destaque">Projetos</a> ·
-  <a href="#contato">Contato</a>
-</p>
+<br/><br/>
+
+<a href="#-sobre-mim">SOBRE</a> &nbsp;•&nbsp;
+<a href="#-stack">STACK</a> &nbsp;•&nbsp;
+<a href="#-projetos">PROJETOS</a> &nbsp;•&nbsp;
+<a href="#-estatísticas">ESTATÍSTICAS</a> &nbsp;•&nbsp;
+<a href="#-vamos-conversar">CONTATO</a>
 
 </div>
 
@@ -34,83 +35,97 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, interessado em desenvol
 - 🛠️ Gosto de transformar necessidades reais em soluções úteis, organizadas e eficientes.
 - 📍 Belém — Pará, Brasil.
 
-Estou sempre buscando evoluir tecnicamente, aprender novas ferramentas e desenvolver projetos que unam desenvolvimento de software e infraestrutura.
+**Meu foco:** unir desenvolvimento de software e infraestrutura para criar soluções úteis, seguras e bem estruturadas.
 
-## 🚀 Tecnologias e ferramentas
+## 🧰 Stack
 
 <div align="center">
 
-**Desenvolvimento**
+### Desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,vite,html,css,tailwind" alt="Tecnologias de desenvolvimento"/>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,vite,html,css,tailwind&perline=9" alt="Stack de desenvolvimento"/>
 
-**Banco de dados**
+### Banco de dados
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite" alt="Banco de dados"/>
+<img src="https://skillicons.dev/icons?i=postgres,sqlite&perline=6" alt="Bancos de dados"/>
 
-**Infraestrutura e ferramentas**
+### Infraestrutura & ferramentas
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,windows" alt="Infraestrutura e ferramentas"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,windows&perline=6" alt="Infraestrutura e ferramentas"/>
 
 </div>
 
-## 📌 Projetos em destaque
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧩 SISTOLDA</h3>
-      <p><strong>Sistema Integrado de Controle Operacional</strong></p>
-      <p>Aplicação web para centralização e organização de processos operacionais, com módulos de gerenciamento, permissões, histórico de movimentações e auditoria.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite"/>
-      </p>
-      <a href="https://github.com/italomatheus355/sistolda"><strong>Ver repositório →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐧 Ubuntu Automation</h3>
-      <p><strong>Automação e administração Linux</strong></p>
-      <p>Projeto modular em Bash para automatizar tarefas administrativas, com interface Dialog, registros de execução, diagnóstico e manutenção do sistema.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash"/>
-        <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
-      </p>
-      <a href="https://github.com/italomatheus355/ubuntu-automation"><strong>Ver repositório →</strong></a>
-    </td>
-  </tr>
-</table>
-
-## 📊 Estatísticas do GitHub
+## 🚀 Projetos
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=italomatheus355&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italomatheus355&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas"/>
+
+<a href="https://github.com/italomatheus355/sistolda">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=italomatheus355&repo=sistolda&theme=tokyonight&hide_border=true&description_lines_count=3" alt="Card do projeto SISTOLDA"/>
+</a>
+<a href="https://github.com/italomatheus355/ubuntu-automation">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=italomatheus355&repo=ubuntu-automation&theme=tokyonight&hide_border=true&description_lines_count=3" alt="Card do projeto Ubuntu Automation"/>
+</a>
+
 </div>
 
+<details>
+<summary><strong>🧩 SISTOLDA — Sistema Integrado de Controle Operacional</strong></summary>
+
+Aplicação web para centralizar e organizar processos operacionais, com módulos de gerenciamento, controle de permissões, histórico de movimentações e auditoria.
+
+**Tecnologias:** React · TypeScript · Vite · Tailwind CSS · Node.js · Express · SQLite
+
+<a href="https://github.com/italomatheus355/sistolda">Explorar o projeto →</a>
+
+</details>
+
+<details>
+<summary><strong>🐧 Ubuntu Automation — Automação e administração Linux</strong></summary>
+
+Ferramenta modular em Bash para automatizar tarefas administrativas no Ubuntu, com interface Dialog, logs, diagnóstico e rotinas de manutenção.
+
+**Tecnologias:** Linux · Bash · Dialog · Shell Script
+
+<a href="https://github.com/italomatheus355/ubuntu-automation">Explorar o projeto →</a>
+
+</details>
+
+## 📊 Estatísticas
+
 <div align="center">
-  <img width="95%" src="https://streak-stats.demolab.com?user=italomatheus355&theme=github-dark-blue&hide_border=true" alt="Sequência de contribuições"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=italomatheus355&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas GitHub"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italomatheus355&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=italomatheus355&theme=tokyonight&hide_border=true&mode=weekly" alt="Sequência de contribuições"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=italomatheus355&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade"/>
+
 </div>
 
-## 🐍 Atividade no GitHub
+## 🐍 Contribuições em movimento
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/italomatheus355/italomatheus355/output/github-contribution-grid-snake-dark.svg" alt="Animação da grade de contribuições"/>
+
+![Snake animation](https://raw.githubusercontent.com/italomatheus355/italomatheus355/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
-## 📫 Contato
+## 🤝 Vamos conversar?
 
 <div align="center">
-  <a href="https://github.com/italomatheus355">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
 
-<div align="center">
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=100&section=footer" width="100%" alt="Rodapé"/>
-  <sub>Construindo, aprendendo e evoluindo um commit de cada vez. 💙</sub>
+<a href="https://github.com/italomatheus355"><img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+
+<br/><br/>
+
+**Obrigado por visitar meu perfil!**  
+Se algum projeto chamou sua atenção, fique à vontade para explorar os repositórios.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,100:070B16&height=115&section=footer" alt="Rodapé"/>
+
 </div>
