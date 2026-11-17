@@ -1,4 +1,4 @@
-<!-- Perfil GitHub | Ítalo Matheus -->
+<!-- Perfil GitHub | Italo Matheus -->
 
 <div align="center">
 
