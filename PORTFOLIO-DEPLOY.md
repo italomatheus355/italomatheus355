@@ -1,4 +1,4 @@
-# Portfólio — Ítalo Matheus
+# Portfólio — Italo Matheus
 
 Site estático desenvolvido em HTML, CSS e JavaScript, publicado pelo GitHub Pages.
 
