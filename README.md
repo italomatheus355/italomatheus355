@@ -1,71 +1,79 @@
-<!-- Perfil GitHub | Italo Matheus -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080D18,55:102846,100:164E75&height=210&section=header&text=ÍTALO%20MATHEUS&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=DESENVOLVEDOR%20DE%20SOFTWARE%20%7C%20SISTEMAS%20%26%20AUTOMAÇÃO&descSize=14&descColor=9EDCFF&descAlignY=62" />
+# Italo Matheus
 
-<br/>
+### Desenvolvedor de Software | Sistemas Organizacionais | Automação
 
-<a href="https://github.com/italomatheus355"><img src="https://img.shields.io/badge/GitHub-italomatheus355-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://img.shields.io/badge/Belém-Pará-164E75?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Belém, Pará"/>
+**Transformo necessidades operacionais em soluções digitais.**
 
-<br/><br/>
-
-**Desenvolvimento de software · Sistemas organizacionais · Automação Linux**
+[![GitHub](https://img.shields.io/badge/GitHub-italomatheus355-181717?style=flat-square&logo=github)](https://github.com/italomatheus355)
+![Localização](https://img.shields.io/badge/Belém-PA%20%7C%20Brasil-245A75?style=flat-square)
 
 </div>
 
 ---
 
-## Sobre mim
+## Perfil
 
-Sou profissional de Tecnologia da Informação com experiência prática em desenvolvimento de sistemas, infraestrutura, redes e administração de ambientes Linux e Windows. Tenho interesse especial em transformar necessidades operacionais em soluções digitais, com foco em sistemas organizacionais, integração de processos e automação.
+Profissional de Tecnologia da Informação com experiência prática em **desenvolvimento de sistemas, automação de processos e infraestrutura de TI**. Meu foco é construir soluções que organizem operações, simplifiquem atividades e contribuam para a eficiência de ambientes institucionais e organizacionais.
 
-Atuo em ambiente institucional, na Marinha do Brasil, com vivência em suporte e infraestrutura de TI, administração de sistemas, redes TCP/IP e criação de ferramentas para otimizar rotinas técnicas.
+Minha experiência reúne desenvolvimento web, administração de ambientes Linux e Windows, redes TCP/IP, suporte técnico e criação de ferramentas para padronizar rotinas. Atualmente, direciono minha trajetória para o desenvolvimento de software, com interesse especial em sistemas de gestão, integração de processos e soluções orientadas a necessidades reais.
 
-Meu objetivo profissional é evoluir continuamente como **desenvolvedor de software**, construindo aplicações que resolvam problemas reais e melhorem processos de organizações.
+## Áreas de atuação
 
-## Tecnologias e competências
+- **Desenvolvimento de software:** aplicações web, lógica de programação, componentes e APIs.
+- **Sistemas organizacionais:** digitalização de rotinas, centralização de informações e apoio a processos administrativos.
+- **Automação:** scripts e ferramentas para reduzir tarefas repetitivas e padronizar procedimentos.
+- **Infraestrutura e redes:** ambientes Linux e Windows, servidores, suporte e redes TCP/IP.
+- **Banco de dados:** SQL, PostgreSQL e organização de dados relacionais.
+
+## Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,react,postgres,html,css,bash,linux,git,github,vscode&perline=6" alt="Tecnologias"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=222)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
-
-- **Desenvolvimento:** JavaScript, React, Node.js, desenvolvimento web e APIs.
-- **Banco de dados:** PostgreSQL, SQL e modelagem relacional.
-- **Automação e sistemas:** Bash, Shell Script, Ubuntu e Linux.
-- **Infraestrutura e redes:** administração de ambientes, servidores, suporte técnico e TCP/IP.
-- **Ferramentas:** Git, GitHub, VS Code e pgAdmin.
 
 ## Projetos em destaque
 
 ### SISGO — Sistema de Gerenciamento Organizacional
 
-Sistema desenvolvido para digitalizar e centralizar processos administrativos e operacionais em um ambiente institucional. A proposta reúne módulos de gerenciamento de chaves, veículos, visitantes e materiais, com foco em organização, padronização de registros e maior rastreabilidade das rotinas.
+Sistema voltado à digitalização e centralização de processos administrativos e operacionais em ambiente institucional. Reúne módulos para gerenciamento de chaves, veículos, visitantes e materiais, com o objetivo de organizar registros, padronizar fluxos de trabalho e ampliar a rastreabilidade das atividades.
 
 **Tecnologias:** JavaScript · React · Node.js · PostgreSQL
 
 ### Framework de Automação e Padronização de Ambientes Linux
 
-Framework desenvolvido em Bash para automatizar procedimentos técnicos, instalações, configurações e preparação de estações Ubuntu/Linux. Organiza rotinas em um fluxo padronizado, facilitando a execução de tarefas administrativas e apoiando o trabalho dos profissionais responsáveis pelo ambiente.
+Ferramenta desenvolvida em Bash para automatizar procedimentos técnicos de preparação, configuração e manutenção de ambientes Linux, com foco em Ubuntu. A iniciativa busca reunir rotinas administrativas em um fluxo padronizado, reduzir intervenções manuais e tornar a execução das tarefas mais consistente.
 
 **Tecnologias:** Bash · Shell Script · Ubuntu · Linux
 
-## Direcionamento profissional
+## Experiência e direcionamento
 
-Tenho interesse em oportunidades como Desenvolvedor de Software, Desenvolvedor Full Stack Júnior e funções relacionadas ao desenvolvimento de sistemas organizacionais. Também busco aprofundar conhecimentos em arquitetura de software, integração de sistemas, automação de processos e infraestrutura.
+Atuação profissional em ambiente institucional, na **Marinha do Brasil**, com experiência em atividades de Tecnologia da Informação relacionadas a infraestrutura, redes, administração de sistemas, suporte e automação.
+
+Busco oportunidades na área de **desenvolvimento de software**, especialmente em desenvolvimento web e full stack, sem deixar de integrar minha experiência em infraestrutura e processos organizacionais à construção de soluções.
 
 ## Contato
 
-- GitHub: [github.com/italomatheus355](https://github.com/italomatheus355)
-- Localização: Belém — Pará, Brasil
+- **GitHub:** [github.com/italomatheus355](https://github.com/italomatheus355)
+- **LinkedIn:** [Acesse meu perfil](https://www.linkedin.com/)
+- **Localização:** Belém, Pará — Brasil
 
 ---
 
 <div align="center">
 
-*Construindo soluções digitais a partir de problemas reais.*
+*Tecnologia com propósito: sistemas melhores, processos mais simples.*
 
 </div>
