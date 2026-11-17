@@ -1,17 +1,27 @@
 # Portfólio — Ítalo Matheus
 
-Site estático em HTML, CSS e JavaScript, pronto para GitHub Pages.
+Site estático desenvolvido em HTML, CSS e JavaScript, publicado pelo GitHub Pages.
 
-## Publicar pelo GitHub Pages
-1. Abra **Settings** deste repositório.
-2. Entre em **Pages**.
-3. Em **Build and deployment**, selecione **Deploy from a branch**.
-4. Escolha a branch `main` e a pasta `/(root)`, depois clique em **Save**.
-5. Aguarde o GitHub publicar o site.
+## Configuração de publicação
 
-Com o repositório atual `italomatheus355`, o endereço esperado é:
+No repositório, acesse **Settings → Pages** e configure:
+
+- **Source:** Deploy from a branch
+- **Branch:** main
+- **Folder:** /(root)
+
+Clique em **Save** e aguarde a publicação.
+
+## Endereço
+
+Como este repositório se chama `italomatheus355`, o endereço padrão do projeto é:
+
 https://italomatheus355.github.io/italomatheus355/
 
-Para usar o endereço raiz https://italomatheus355.github.io/, renomeie o repositório para `italomatheus355.github.io` nas configurações do GitHub (isso altera o nome do repositório).
+Para publicar no endereço raiz `https://italomatheus355.github.io/`, o repositório precisa se chamar exatamente `italomatheus355.github.io`.
 
-Edite `index.html` para atualizar o conteúdo. Links de LinkedIn e e-mail podem ser adicionados quando os endereços corretos forem definidos.
+## Atualizações
+
+Edite o arquivo `index.html` e envie as alterações para a branch `main`. O GitHub Pages fará uma nova publicação automaticamente.
+
+O perfil do GitHub é apresentado no arquivo `README.md`.
